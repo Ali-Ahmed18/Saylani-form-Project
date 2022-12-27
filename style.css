@@ -1,0 +1,72 @@
+
+.green{
+    color: #499142;
+    border: 1px solid lightgrey;
+    
+    
+}
+.blue{
+    color: #0D6DB7;
+    border: 1px solid lightgrey;
+    
+}
+.be{
+    color: #0D6DB7;
+}
+select{
+    width: 200px;
+    height: 5vh;
+    border-radius: 3px;
+    border-color: #499142;
+}
+.main input{
+    width: 200px;
+    height: 5vh;
+    border-radius: 3px;
+    border-color: #499142;
+}    
+.six input{
+    width: 400px;
+    height: 5vh;
+    border-radius: 3px;
+    border-color: #499142;
+}
+.seven input{
+    width: 400px;
+    height: 5vh;
+    border-radius: 3px;
+    border-color: #499142;
+}
+.eight input{
+    width: 400px;
+    height: 5vh;
+    border-radius: 3px;
+    border-color: #499142;
+}
+.bluee{
+    color: #0D6DB7;
+}
+.line{
+    border: 1px solid lightgrey;
+    
+}
+.button button{
+    width: 600px;
+    height: 5vh;
+    background-color: #0D6DB7;
+    color: #fff;
+    font-family: sans-serif;
+    border-radius:3px ;
+    border-color: #0D6DB7;
+    cursor: pointer;
+}
+
+
+
+    
+
+  
+    
+
+    
+    
